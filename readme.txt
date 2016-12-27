@@ -1,5 +1,8 @@
 
 === AdminLTE Theme MPP ===
+
+![alt tag](https://raw.githubusercontent.com/mauriciopazpp/plugin-wp-adminlte-wp-mpp/master/screenshot.png)
+
 Author: Mauricio Paz Pacheco - Github: mauriciopazpp
 Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DT3VTKHCCCHA4
 Tags: AdminLTE, AdminLTE2, AdminLTE2 Wordpress theme, AdminLTE Wordpress plugin, wordpress admin theme, admin theme, white label, admin page, wordpress admin panel, admin, plugin, admin panel, wordpress, wordpress admin panel, flat admin theme, modern admin theme, simple admin theme, admin theme style plugin, free admin theme style plugin, backend theme, custom admin theme, new admin ui, wp admin theme, wp admin page.
