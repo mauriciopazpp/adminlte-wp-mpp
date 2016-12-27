@@ -1,6 +1,6 @@
 === Wordpress Plugin AdminLTE Theme MPP ===
 
-![Alt text](/mauriciopazpp/plugin-wp-adminlte-wp-mpp/master/screenshot.png "Wordpress Plugin")
+![alt text](mauriciopazpp/plugin-wp-adminlte-wp-mpp/master/screenshot.png "Wordpress plugin AdminLTE")
 
 Author: Mauricio Paz Pacheco - Github: mauriciopazpp
 Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DT3VTKHCCCHA4
