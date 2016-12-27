@@ -1,0 +1,261 @@
+/**
+ * Background
+ */
+body
+{
+	min-height: 100%;
+	background-color: #ecf0f5;
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif!important;	
+}
+
+/**
+ * Sidebar
+ */
+#adminmenuwrap
+{
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif!important;
+	font-size: 14px!important;
+	line-height: 1.42857143!important;
+	color: #333!important;
+	/*width: 230px;*/
+	/*background-color: #fff!important;*/
+}
+
+#adminmenu
+{
+	width: 230px;
+	margin-top: -2px;
+}
+
+#adminmenu > li > .wp-submenu
+{
+	width: 230px;
+}
+
+#adminmenu > li
+{
+	padding: 3px 0;
+
+}
+#adminmenu > li > a
+{
+	padding: 5px!important;
+
+}
+#adminmenu > li > .wp-menu-open
+{
+	border-left: 4px solid;
+	color: #fff!important;
+	background: #1e282c!important;
+	border-left-color: #3c8dbc!important;
+}
+
+#adminmenu > li.wp-menu-open 
+{
+	position: relative;
+	margin: 0;
+	padding: 0;
+}
+
+#menu-posts{
+    padding: 13px;
+}
+
+#adminmenuback
+{
+    width: 230px;
+}
+#your-profile, #posts-filter, #poststuff
+{
+	background: white;
+    border: 1px solid rgba(128, 128, 128, 0.26);
+    padding: 0 16px 0 16px;
+    border-radius: 3px;
+    border-top: 3px solid #3c8dbc;
+}
+#poststuff{
+	padding-top: 18px;
+}
+/**
+ * Top Navbar
+ */
+#wpadminbar
+{
+	height: 50px!important;
+	background-color: #3c8dbc;
+}
+/*#wpadminbar:before
+{
+	content: 'Wikimed';
+	color:white;
+	margin: 60px;
+	font-size: 26px;
+}*/
+#wp-admin-bar-my-account
+{
+    /*margin-top: -28px!important;*/
+}
+/**
+ * Content of admin
+ */
+#wpcontent
+{
+	margin-top: 16px;
+}
+
+#wpbody-content
+{
+	width: 96%!important;
+	margin-left: 60px!important;
+}
+.wp-submenu-wrap{
+	background: #2c3b41!important;
+}
+
+/**
+ * forms
+ */
+/*input[type=text], input[type=search],input[type=email]{
+	display: block;
+    
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+input[type=text], input[type=search],input[type=email]{
+	border-radius: 0!important;
+    box-shadow: none!important;
+    border-color: #d2d6de!important;
+}*/
+input[type=button], input[type=submit]
+{
+	background-color: #3c8dbc!important;
+	border-color: #367fa9!important;
+	color: white!important;
+	padding: 0 20px!important;
+}
+input[type=button], input[type=submit]:hover
+{
+	background-color: #367fa9!important;
+	border-color: #367fa9!important;
+	color: white!important;
+	padding: 0 16px;
+}
+
+/**
+ * Dashboard
+ */
+.postbox-container > div > div
+{
+	padding: 0 0 24px 0;
+	border-top: 2px solid #3c8dbc;
+	border-radius: 5px;
+}
+
+#created_by
+{
+	margin-left: 255px; 
+	font-size: 11px;
+}
+
+.subsubsub
+{
+	margin: 11px;
+	font-size: 15px;
+}
+.search-box
+{
+	margin-top: 10px!important;
+}
+#wp-admin-bar-root-default > li > a
+{
+	padding: 9px!important;
+}
+#wp-admin-bar-my-account > a
+{
+	padding: 9px!important;	
+}
+#wp-admin-bar-site-name > a{
+	width: 215px!important;
+	font-size: 23px!important;
+	
+}
+#wp-admin-bar-site-name > a:before{
+	margin-left: 26px!important;
+}
+#wp-admin-bar-site-name:hover{
+	background: #367fa9!important;
+}
+.img-round
+{
+	width: 100%;
+	max-width: 45px;
+	height: auto;
+	border-radius: 50%;
+}
+.auth-name{
+	position: absolute;
+	margin: 6px;
+	font-size: 13px;
+}
+#menu-posts > ul > li.current > a
+{
+	margin: 3px;
+}
+
+#toplevel_page_profile > a
+{
+	background: #1a2226!important;
+}
+.wp-list-table
+{
+	border: 0!important;
+}
+
+#post-preview
+{
+	background: #f39c12 !important;
+	width: 100%;
+	color: white;
+	border: 0px;
+}
+#save-action > input
+{
+	/*background: #f39c12 !important;*/
+	width: 100%;
+	color: white;
+	border: 0px;
+}
+#timestamp
+{
+	font-size: 11px;
+}
+
+#major-publishing-actions
+{
+    margin: 0 0 -21px 0;
+}
+#new-tag-post_tag
+{
+    width: 57%;
+}
+/**
+ * Hide elements
+ */
+.update-nag{display: none}
+#footer-thankyou{display: none}
+#wp-admin-bar-wp-logo{display: none}
+#menu-dashboard > ul { display: none;}
+.wp-not-current-submenu > .wp-submenu-wrap{display: none}
+#toplevel_page_profile > a > div.wp-menu-image.dashicons-before.dashicons-admin-generic{display: none}
