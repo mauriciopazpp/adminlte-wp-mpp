@@ -1,6 +1,6 @@
 === Wordpress Plugin AdminLTE Theme MPP ===
 
-![Image of adminlte plugin](/mauriciopazpp/plugin-wp-adminlte-wp-mpp/blob/master/screenshot.png?raw=true "Wordpress plugin AdminLTE")
+![](https://github.com/mauriciopazpp/plugin-wp-adminlte-wp-mpp/blob/master/screenshot.png)
 
 Author: Mauricio Paz Pacheco - Github: mauriciopazpp
 Donate Link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=DT3VTKHCCCHA4
