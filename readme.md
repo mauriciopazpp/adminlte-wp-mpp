@@ -1,4 +1,5 @@
-=== Wordpress Plugin AdminLTE Theme MPP ===
+=== Wordpress Plugin ===
+=== AdminLTE Theme MPP ===
 
 ![](https://github.com/mauriciopazpp/plugin-wp-adminlte-wp-mpp/blob/master/screenshot.png)
 
